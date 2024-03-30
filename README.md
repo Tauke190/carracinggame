@@ -23,6 +23,7 @@ Sound Effects: A sound effect is triggered when the car crosses the lap signifyi
 Automatic Restart: If the car falls off the cliff, the game automatically restarts, allowing players to quickly jump back into the action without interruption.
 
 With its challenging terrain, varied obstacles, and strategic gameplay elements, the car racing game promises an exhilarating experience for players as they race to conquer the mountain roads.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mRGdqu-ukz4/0.jpg)](https://www.youtube.com/watch?v=mRGdqu-ukz4)
 
 
 
