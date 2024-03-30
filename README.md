@@ -26,7 +26,7 @@ With its challenging terrain, varied obstacles, and strategic gameplay elements,
 
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mRGdqu-ukz4/0.jpg)](https://www.youtube.com/watch?v=mRGdqu-ukz4)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MtPWC_MeyS0/0.jpg)](https://www.youtube.com/watch?v=MtPWC_MeyS0)
 
 
 
